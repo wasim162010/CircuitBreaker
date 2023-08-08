@@ -1,4 +1,4 @@
-# QueryViaInfuraWithCurcuitBreaker
+# QueryViaInfuraWithCircuitBreaker
 
 
 npm i
